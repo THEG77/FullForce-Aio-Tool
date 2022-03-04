@@ -3,6 +3,8 @@ Full Force AIO is a Discord related tool with wide range of features.
 
 From Joining Discord Servers to Scrapping Proxies.
 
+This took me a good amount of time to write 😅.
+
 ### Preview
 ![image](https://user-images.githubusercontent.com/48765068/156812945-d23af9a7-6b57-478c-8ab8-d4cc299e055f.png)
 
