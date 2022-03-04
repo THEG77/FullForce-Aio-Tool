@@ -33,4 +33,3 @@ From Joining Discord Servers to Scrapping Proxies.
 
 -Run `FullForce.py`
 
-### Brief 
