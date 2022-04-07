@@ -20,6 +20,7 @@ This took me a good amount of time to write 😅.
 ### Info
 - Discord interaction works via Discord Api and tokens
 - Multiple Sites are scrapped for gathering fresh proxies
+- Uses Selenium and Chrome Webdriver for automaion tasks
 
 ## Features
 * Joiner:   `Joins provided tokens into a server`
